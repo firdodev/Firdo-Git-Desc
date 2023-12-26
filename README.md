@@ -9,7 +9,7 @@ Software and Game Developer
 * ✉️  You can contact me at [firdeuskasaj@gmail.com](mailto:firdeuskasaj@gmail.com)
 * 🚀  I'm currently working on [Unyo Engine](http://www.unyo.com.co)
 * 🤝  Eager to collaborate on groundbreaking projects
-* ⚡  Fun fact: I'm secretly Batman 🦇 (Shh... it's a secret!)
+* ⚡  Fun fact: I'm secretly Batman 🦇 (Shh... it's a secret!)<br><br>
 <a href="https://www.github.com/firdodev" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/firdodev?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.x.com/Firdo_o" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/Firdo_o?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
