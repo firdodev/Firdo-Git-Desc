@@ -7,7 +7,7 @@ Software and Game Developer
 * 🌍  I'm based in Tirana
 * 🖥️  See my portfolio at [My Portfolio](http://www.firdeuskasaj.com)
 * ✉️  You can contact me at [firdeuskasaj@gmail.com](mailto:firdeuskasaj@gmail.com)
-* 🚀  I'm currently working on [Unyo Engine](http://www.unyo.com.co)
+* 🚀  I'm currently working on [Unyo Engine](http://www.unyocorp.com)
 * 🤝  Eager to collaborate on groundbreaking projects
 * ⚡  Fun fact: I'm secretly Batman 🦇 (Shh... it's a secret!)<br><br>
 <a href="https://www.github.com/firdodev" target="_blank" rel="noreferrer"><img
